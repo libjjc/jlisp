@@ -1,5 +1,0 @@
-#ifndef JLISP_CORE_JTUPLE_HH
-#define JLISP_CORE_JTUPLE_HH
-
-
-#endif//JLISP_CORE_JTUPLE_HH
